@@ -34,7 +34,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap");
 body,
 html {
-  color: #006A71;
+  color: #205781;
   font-family: "Poppins", sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -49,7 +49,7 @@ h4,
 h5,
 h6 {
   clear: both;
-  color: #006A71;
+  color: #205781;
   padding: 0;
   margin: 0 0 20px 0;
   font-weight: 700;
@@ -2636,7 +2636,7 @@ hr {
 }
 
 .cs_white_color {
-  color: #096871;
+  color: #205781;
 }
 .cs_sub_color{
   color: #183B4E;
