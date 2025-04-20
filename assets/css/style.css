@@ -6267,7 +6267,7 @@ a.ui-button:active,
 @media (max-width: 1199px) {
   .cs_site_header.cs_style1.cs_white_color .cs_nav .cs_nav_list {
     color: #006A71;
-    background-color: #F2EFE7;
+    background-color: #fefdfc;
   }
   .cs_site_header.cs_style1.cs_white_color .cs_menu_toggle.cs_toggle_active {
     color: #006A71;
